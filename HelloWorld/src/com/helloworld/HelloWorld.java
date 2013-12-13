@@ -6,6 +6,6 @@ public class HelloWorld {
 
 
         //comment
-        System.out.println("HELLO WORLD");
+        System.out.println("HELLO EVERYBODY!");
     }
 }
